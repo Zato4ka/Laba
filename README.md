@@ -2,9 +2,9 @@
 
 Персональное задание
 
-"[Ссылка на Wiki проекта](https://github.com/Zato4ka/Laba/wiki)"
+"[Wiki проекта](https://github.com/Zato4ka/Laba/wiki)"
 
-"[Ссылка на репозиторий с лабораторной работой](https://github.com/Zato4ka/Laba)"
+"[Репозиторий с лабораторной работой](https://github.com/Zato4ka/Laba)"
 
 В помощь:
 * Материалы "[загляни в прошлое](https://github.com/stankin/oop/wiki)"
