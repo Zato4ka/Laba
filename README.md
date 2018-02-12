@@ -4,6 +4,8 @@
 
 "[Ссылка на Wiki проекта](https://github.com/Zato4ka/Laba/wiki)"
 
+"[Ссылка на репозиторий с лабораторной работой](https://github.com/Zato4ka/Laba)"
+
 В помощь:
 * Материалы "[загляни в прошлое](https://github.com/stankin/oop/wiki)"
 * Материалы "[загляни в будущее](https://github.com/stankin/inet-2017/wiki)"
