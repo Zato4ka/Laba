@@ -1,7 +1,7 @@
 # Коротков А.С. ИДБ-14-14
 
 Персональное задание
-Ссылка на Wiki проекта * https://github.com/Zato4ka/Laba/wiki
+Ссылка на Wiki проекта * (https://github.com/Zato4ka/Laba/wiki)
 
 В помощь:
 * Материалы "[загляни в прошлое](https://github.com/stankin/oop/wiki)"
