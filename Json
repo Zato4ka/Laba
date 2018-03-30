@@ -1,0 +1,97 @@
+{
+  "title": "Производство",
+  "contents": [
+
+    {
+      "title": "Проектирование",
+      "Id": "Stage1",
+      "contents": [
+        {
+          "schemeId": "1",
+          "schemeName": "1",
+          "author": [
+            {
+              "Name": "Тарас Панис",
+              "Personal code": "1",
+              "Position": "Designer"
+            }
+          ],
+          "assemblyUnits": [
+            {
+              "unitId": "1",
+              "unitName": "Name1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Сборка",
+      "Id": "Stage2",
+      "depends_on":"Stage1",
+      "contents": [
+        {
+          "schemeId": "1",
+          "schemeName": "1",
+          "author": [
+            {
+              "Name": "Богдан Коврига",
+              "Personal code": "2",
+              "Position": "Engineer"
+            }
+          ],
+          "mechanismName": "ToshibaMX500",
+          "BatchOfDetailsId": "1",
+          "details": [
+            {
+              "DetailId": "1",
+              "DetailName": "Body",
+              "Quantity": "1"
+            },
+            {
+              "DetailId": "2",
+              "DetailName": "Display",
+              "Quantity": "1"
+            },
+            {
+              "DetailId": "3",
+              "DetailName": "Camera",
+              "Quantity": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Тестирование",
+      "Id": "Stage3",
+      "depends_on":"Stage1",
+      "contents": [
+        {
+          "schemeId": "1",
+          "schemeName": "1",
+          "author": [
+            {
+              "Name": "Николай Селиванов",
+              "Personal code": "3",
+              "Position": "Tester"
+            }
+          ],
+          "mechanismName": "ToshibaTE9000",
+          "assembly units": [
+            {
+              "unitId": "1",
+              "unitName": "Name1"
+            }
+          ],
+          "phone": [
+            {
+              "phoneId": "1",
+              "phoneName": "Name"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
