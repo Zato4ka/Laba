@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html >
+
+<head>
+	<meta charset="UTF-8">
+
+	<title>Страница 2</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+ 
+var cart =  {
+      "title": "Проектирование",
+      "Id": "Stage1",
+      "contents": [
+        {
+          "schemeId": "1",
+          "schemeName": "1",
+          "author": [
+            {
+              "Name": "Тарас Панис",
+              "Personal code": "1",
+              "Position": "Designer"
+            }
+          ],
+          "assemblyUnits": [
+            {
+              "unitId": "1",
+              "unitName": "Name1"
+            }
+          ]
+        }
+      ]
+    }
+
+alert ( JSON.stringify( cart ) );
+
+</script>
+
+</body>
+
+</html >
